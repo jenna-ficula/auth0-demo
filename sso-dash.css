@@ -1,0 +1,16 @@
+header.dashboard-header {
+  background-color: #e2e2e2 !important;
+  border-bottom-color: #0028a0 !important;
+  color: #0028a0 !important;
+  font-family: sans-serif !important;
+}
+
+.navbar-default .navbar-brand {
+  font-family: sans-serif !important;
+  color: #0028a0 !important;
+}
+
+header.dashboard-header nav #header {
+  background-size: 115px !important;
+  background-image: url("https://arizent.brightspotcdn.com/dims4/default/eb8f14b/2147483647/strip/true/crop/800x400+0+0/resize/400x200!/quality/90/?url=https%3A%2F%2Farizent.brightspotcdn.com%2Ff3%2F77%2Ff32c0a8a446abebf000147823677%2Fma-logo-800x400.png") !important;
+}
